@@ -13,11 +13,11 @@ from the early days of Warcraft 3 replays without casting to the modern days of 
 
 I've always been interested in the intricate details that make Dota what it is, and it Dota's evolution.
 
-On this blog I will try to present Dota's evolution, how I perceived and hopefully how others have seen it as well.
+On this blog I will try to present Dota's evolution, how I perceived and hopefully how others have seen it as well :smile:
 
 Enjoy your visit and if you'd like you can contact me by:
 
 * [email](mailto:oblio@oblio360.com)
 * [Facebook](https://facebook.com/oblio360)
-* [Twitter](https://facebook.com/oblio360)
-* or just plain ol' comments
+* [Twitter](https://twitter.com/oblio360)
+* or just plain ol' comments :wink:

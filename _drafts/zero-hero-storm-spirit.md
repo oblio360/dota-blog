@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "From Zero to Hero: Storm Spirit"
+title: "From Zero to Hero: Rai'jin, the Storm Spirit"
 ---
 
 Hello folks, I'm oblio and I'll be your host for this very first episode of "Dota History: From Zero to Hero", a series 

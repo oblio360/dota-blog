@@ -1,2 +1,1 @@
-# dota-blog
-Dota blog.
+# Dota 2 blog, by oblio@oblio360.com

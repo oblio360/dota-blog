@@ -1,0 +1,20 @@
+# Dependencies
+markdown:         redcarpet
+pygments:         true
+gems:		  
+- jemoji
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            Dota blog
+tagline:          'Dota blog.'
+description:      'Various thoughts about Dota 1 & 2 from oblio@oblio360.com.'
+url:              http://dota.oblio360.com
+
+author:
+  name:           'Constantin Caraivan'
+  url:            https://twitter.com/oblio360
+
+paginate:         5

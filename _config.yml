@@ -1,7 +1,8 @@
 # Dependencies
 markdown:         redcarpet
-gems:		  
+gems:
 - jemoji
+- jekyll-sitemap
 
 # Permalinks
 permalink:        pretty

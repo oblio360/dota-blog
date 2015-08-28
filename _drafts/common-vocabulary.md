@@ -59,7 +59,7 @@ get his shiny tier 4 items. Even if his team wins and also has fun along the way
 
 I think Timmies are actually the majority of Dota players. And when I said that these player personas are visibile in most
 competitive games, I wasn't kidding. Anyone who has ever played Starcraft 1 or 2 "15 mins no rush" games
-against someone who wanted to attack with 15 battlecruisers or 20 archons, that's Timmy at his best.
+against someone who wanted to attack with 15 battlecruisers or 20 archons, that's Timmy in action.
 
 ![Big Starcraft Battle](http://learningsc2.com/wp-content/uploads/2011/06/Epic-Battle-1024x610.jpg)
 *<sub>Now, __this__ is fun!</sub>*

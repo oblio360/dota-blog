@@ -16,7 +16,9 @@ playing.
 
 So, let's start!
 
-### Storm Spirit
+## Storm Spirit
+
+### Versions 6.44 - 6.50
 
 ![Storm Spirit](/images/posts/zero-hero-storm-spirit/storm-spirit.png)
 
@@ -34,7 +36,7 @@ We will talk about the others in future "From Zero to Hero" episodes.
 Storm Spirit (*SS* for short) was introduced to fill a very narrow niche at the time, that of the Intelligence (Int)
 core, or *carry / right clicker* as it was known at the time. His only direct competitors at the time were:
 
-* Obsidian Destroyer<sup>TM Blizzard</sup> aka Outworld Devourer (underpowered at the time)
+* Outworld Devourer aka Obsidian Destroyer<sup>TM Blizzard</sup> (underpowered at the time)
 * Silencer (considered too situational) 
 * Enchantress (too good early game to actually be used as a core, despite having decent right click potential)
 
@@ -123,10 +125,32 @@ want your 10000 gold core to be in.
 
 Despite a rather haphazard mishmash of skills, the Dota community adopted Storm, at least outside the competitive scene
 (this version was never used in the competitive scene). The allure of massive attack speed proved too strong and many a
-Storm died bravely fighting Trolls and various invisible monsters while wielding Daedalus (Buriza) and Divine Rapier.
-Yours truly liked the hero and used him as a more utility oriented, rat-like creature with items such as Necronomicon,
-using Lightning Grapple and Barrier as escape skills.
+Storm died bravely fighting Trolls and various invisible <s>Rikis</s> monsters while wielding Daedalus (Buriza<sup>TM
+Blizzard</sup>) and Divine Rapier. Yours truly liked the hero and played him as a more utility oriented, rat-like
+creature with items such as Necronomicon, using Lightning Grapple and Barrier as escape skills.
 
 Still, when the novelty factor wore off and the initial ridiculous factors was removed (Overload purging its targets),
 Storm could be considered one of the less popular heroes in Dota. And as we will discover later on in this series, his 5
 brothers from release didn't fare much better, except for pub darling Huskar.
+
+### Version 6.44 - 6.49
+
+Except for bug fixes, no major changes happened... :unamused:
+
+### Version 6.50
+
+The first major change in young Storm's life!
+
+I'm actually kidding, Icefrog gave him the Doom treatment, +1 armor.
+
+## Versions 6.51 - 6.57
+
+Quiet on the Storm front.
+
+### Version 6.58
+
+All of a sudden, lightning struck! And it did so on [Christmas day](http://www.playdota.com/forums/blog.php?b=56)!
+
+Icefrog posted an update on this blog with a teaser for the upcoming 6.58 version, showing a remake for Storm. The
+speculation was rampant for a few weeks, until Icefrog actually [released the much awaited 6.58
+version](http://www.playdota.com/forums/blog.php?b=59).

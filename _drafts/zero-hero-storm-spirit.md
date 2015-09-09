@@ -154,3 +154,89 @@ All of a sudden, lightning struck! And it did so on [Christmas day](http://www.p
 Icefrog posted an update on this blog with a teaser for the upcoming 6.58 version, showing a remake for Storm. The
 speculation was rampant for a few weeks, until Icefrog actually [released the much awaited 6.58
 version](http://www.playdota.com/forums/blog.php?b=59).
+
+There was a bit of confusion when the new Storm was unveiled, but that soon gave way to a lot of excitement as Storm as
+probably the first hero with a 0-cooldown (CD) ability: Ball Lightning.
+
+The remade hero took the Dota world by storm (bad pun intended) and became one of the common competitive heroes after a
+bit of finagling with his stats.
+
+One of the heroes worst hit by this remake was Akasha, the Queen of Pain (QoP), who for a long time just couldn't compete with
+the nimble spirit. Her AOE damage was surpassed by the AOE damage from Storm Spirit and the mobility granted by her
+Blink skill couldn't compete with Storm's Ulti. It took many versions for this balance to be reestablished and for QoP
+to be seen again on the competitive scene more frequently.
+
+For completeness' sake this is the full list of changes made after this 1 major remake.
+
+### Version 6.64
+
+Buff: Base Intelligence increased from 23 to 26.
+
+### Version 6.67
+
+Nerf: Attack range lowered from 500 to 480.
+
+### Version 6.69
+
+Nerf: Intelligence base and growth reduced from 26 + 2.6 to 23 + 2.2
+
+Nerf: Electric Vortex mana cost increased from 100 to 100/110/120/130
+
+### Version 6.70
+
+Buff: Intelligence growth increased from 2.2 to 2.6
+
+### Version 6.72d
+
+Buff: Base Strength increased by 2
+
+### Version 6.73
+
+Buff: Overload bonus damage increased from 30/45/60/75 to 30/50/70/90
+
+### Version 6.74
+
+Buff: Ball Lightning now properly dodges projectiles
+
+### Version 6.75
+
+Buff: Static Remnant cooldown decreased from 4 to 3.5
+
+### Version 6.78
+
+Buff: Electric Vortex cooldown decreased from 20 to 21/20/19/18
+
+### Version 6.80
+
+Nerf: Base movement speed reduced from 295 to 290
+
+### Version 6.82
+
+Buff? Nerf? Not sure: Ball Lightning mana cost per 100 units from 10 + 1% to 12 + 0.7%
+
+
+### Version 6.83
+
+Buff Turn Rate improved from 0.6 to 0.8
+
+
+### Version 6.84
+
+Nerf: Storm Spirit movement speed reduced from 290 to 285
+
+Nerf: Ball Lightning flying vision from 1000 to 400
+
+Buff? Nerf? Again not sure: Static Remnant no longer ignores ancient units
+
+Phew, that was a long list of changes! And the most interesting things is that Storm is relatively a new hero. And one
+which has gone through only 1 major remake.
+
+So this story will get a lot more interesting in the future :smile:
+
+If you'd like this episode, as well as future episodes to also have an accompanying video on Youtube, write so in the
+comment section below.
+
+If enough people vote for videos, I will start work on them (including for the older episodes) and I will send an
+update when they are ready.
+
+See you around and hope you enjoyed this first episode of "From Zero to Hero"!

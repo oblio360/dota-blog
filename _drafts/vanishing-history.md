@@ -24,15 +24,17 @@ since moved on to co-found Riot (aka League of Legends) and he caused a lot of b
 the site & forum and put up a billboard advertising LoL on the site.
 
 Luckily for us Icefrog had already drawn a large part of the community over to playdota.com. But some brilliant pieces
-of Dota history were lost forever.
+of Dota history were lost forever. Yes, I know that years later, after he almost killed the community, Pendragon
+released the forum database and [da-archive.com](http://da-archive.com/) appeared but it's mostly broken, unfortunately
+:weary:
 
 Anyway, I want to bring back the atmosphere of those early years of Dota and I hope you accompany me on this journey!
 :smile:
 
-And just for fun, here's a brilliant article written by
-[FoxNetworks](http://www.playdota.com/forums/showthread.php?t=517562) a long, long time ago on the dota-allstars.com
-site (maybe in 2007?). I painstakingly recreated it with the help of the [Internet Archive (aka the Wayback
-Machine)](https://archive.org/index.php), a brilliant effort to save old sites. If you can, [donate to help
-them](https://archive.org/donate/).
+And just for fun, here's a brilliant article written by [FoxNetworks a long, long time ago on the dota-allstars.com site
+(maybe in 2007?)](http://www.playdota.com/forums/showthread.php?t=517562). I painstakingly recreated it on playdota.com
+with the help of the [Internet Archive (aka the Wayback Machine)](https://archive.org/index.php), a brilliant effort to
+save old sites. If you can, [donate to help the Internet Archive as they're an awesome
+non-profit](https://archive.org/donate/).
 
 Enjoy FoxNetworks' article and if you have personal stories or resources about Dota's history, please comment below.

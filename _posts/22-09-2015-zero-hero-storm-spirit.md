@@ -90,7 +90,7 @@ Now we're on somewhat more familiar territory. The old Overload was similar to t
 * it triggered once every 8/7/6/5 attacks instead of triggering after spell cast
 * it slowed and dispelled (purged) the target instead of just slowing it
 
-The synergy with Electric Rave is obvious as you could trigger Overload a lot once Electriv Rave was leveled up. This
+The synergy with Electric Rave is obvious as you could trigger Overload a lot once Electric Rave was leveled up. This
 skill was the "sleeper hit" in Storm's original skill set as Storm's creator underestimated the effect of a spammable
 AOE nuke combined with a purge.
 

@@ -2,7 +2,7 @@
 layout: page
 title: "Archive"
 ---
-<img src="/images/posts/common/archive.jpg" alt="Archive image"/>
+<img src="/images/common/archive.jpg" alt="Archive image"/>
 
 <section id="archive">
   <ul>

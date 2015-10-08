@@ -62,7 +62,7 @@ html {
 @media (min-width: 48rem) {
   .sidebar {
       display: table-cell;
-      width: 340px;
+      width: 18rem;
       text-align: left;
   }
 }

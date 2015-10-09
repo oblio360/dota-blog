@@ -6,8 +6,6 @@ title: "From Zero to Hero: Rai'jin, the Storm Spirit"
 Hello folks, I'm *oblio* and I'll be your host for a new series about Dota: "Dota History: From Zero to Hero". In this
 series I'll talk about the evolution of Dota heroes from the date they were introduced up to the present day.
 
-You can follow the series through the Youtube videos or by reading the articles on this site.
-
 Dota's history is something that hasn't been covered so far and it can be hard to piece it together from information
 scattered on the internet. At the same time the creator of modern Dota, Icefrog, is notoriously reclusive so first-hand
 information is even harder to get. As a result I will not be able to present the reasons for creating a specific Dota

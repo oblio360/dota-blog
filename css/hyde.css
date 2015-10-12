@@ -54,10 +54,11 @@ html {
  */
 
 .sidebar {
-  text-align: center;
-  padding: 2rem 1rem;
-  color: rgba(255,255,255,.5);
-  background-color: #202020;
+    text-align: center;
+    vertical-align: top;
+    padding: 0rem 2rem 0rem 1rem;
+    color: rgba(255,255,255,.5);
+    background-color: #202020;
 }
 @media (min-width: 48rem) {
   .sidebar {
@@ -81,11 +82,22 @@ html {
 
 /* Sidebar nav */
 .sidebar-nav {
-  margin-top: 10px;
-  padding-left: 5px;
-  list-style: none;
-  border: 1px solid #fff;
+    width: 260px;
+    margin-top: 10px;
+    padding-left: 5px;
+    list-style: none;
+    border: 1px solid #fff;
 }
+@media (min-width: 48rem) {
+    .sidebar-nav {
+        width: 280px;
+        margin-top: 10px;
+        padding-left: 5px;
+        list-style: none;
+        border: 1px solid #fff;
+    }
+}
+
 .sidebar-nav-item {
   display: block;
 }
@@ -108,32 +120,40 @@ a.sidebar-nav-item:focus {
     height: 550px;
   }
 }
-
-.archive-box {
-  border: 1px solid #fff;
-  text-align: left;
-  padding-left: 5px;
-  list-style: none;
+@media (max-width: 48rem) {
+    .archive-box {
+        width: 260px;
+        border: 1px solid #fff;
+        text-align: center;
+        padding-left: 5px;
+        list-style: none;
+    }
+}
+@media (min-width: 48rem) {
+    .archive-box {
+        width: 280px;
+        border: 1px solid #fff;
+        text-align: left;
+        padding-left: 5px;
+        list-style: none;
+    }
+}
+@media (max-width: 48rem) {
+    .archive-list {
+        display: none;
+    }
 }
 
-
-/* Container
- *
- * Align the contents of the site above the proper threshold with some margin-fu
- * with a 25%-wide `.sidebar`.
- */
-
-.content {
-  padding-top:    4rem;
-  padding-bottom: 4rem;
+.license-text {
+    font-size: 0.2rem;
 }
+
 
 @media (min-width: 48rem) {
   .content {
       display: table-cell;
       max-width: 30rem;
-      padding-left: 2rem;
-      padding-right: 2rem;
+      padding: 4rem 2rem;
   }
 }
 
@@ -141,8 +161,7 @@ a.sidebar-nav-item:focus {
   .content {
       display: table-cell;
       max-width: 46rem;
-      padding-left: 2rem;
-      padding-right: 2rem;
+      padding: 4rem 2rem;
   }
 }
 

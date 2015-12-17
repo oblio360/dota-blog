@@ -370,17 +370,28 @@ a.license:hover, a.license:focus {
     width: 20px;
 }
 
-.adslot_1  {
-    text-align: center;
-    max-height: 140px;
+.ads {
+    width: 320px;
+    height: 100px;
+    align: center;
     padding: 5px;
 }
 
-@media (min-height: 1100px) {
-  .adslot_1 {
-    max-height: 140px;
-    padding: 5px;
-  }
+@media (min-width: 500px) and (max-width: 767px) {
+    .ads{
+        width: 468px;
+        height: 60px;
+        align: center;
+        padding: 5px;
+    }
+}
+@media (min-width:800px) {
+    .ads {
+        width: 728px;
+        height: 90px;
+        align: center;
+        padding: 5px;
+    }
 }
 
 @media (min-width: 640px) and (max-width: 767px) {

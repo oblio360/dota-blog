@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "The vanishing history of Dota"
+tags: [ history, opinion ]
 ---
 
 When I started thinking about this blog I wanted to tell the story of Dota and Dota 2, from their earliest days in 2003.

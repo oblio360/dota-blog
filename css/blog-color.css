@@ -6,7 +6,25 @@
     color: #850303;
 }
 
+.tag-title, .archive-title {
+    background-color: #850303;
+}
+
+a.tag-title, a.archive-title {
+    color: #ffffff;
+}
+
 .theme-base .content a,
 .theme-base .related-posts li a:hover {
     color: #850303;
+}
+
+.theme-base a.tag {
+    background-color: #850303;
+    color: #ffffff;
+}
+
+.fa-tag {
+    background-color: #850303;
+    color: #ffffff;
 }

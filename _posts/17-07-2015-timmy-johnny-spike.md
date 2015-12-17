@@ -1,6 +1,7 @@
 --- 
 layout: post 
 title: "Timmy, Johnny and Spike meet Dota"
+tags: [ opinion ]
 ---
 
 Somewhat strangely for a Dota article I'll start with a discussion about two other games, Magic The Gathering and

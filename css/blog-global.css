@@ -370,6 +370,11 @@ a.license:hover, a.license:focus {
     width: 20px;
 }
 
+.ads {
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
 .adslot_1  {
     width: 320px;
     height: 100px;

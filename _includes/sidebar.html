@@ -15,7 +15,9 @@
         </div>
 
         <div class="tag-box">
-            <a class="tag-title" href="/archive"><b>&nbsp;&nbsp;Hearthstone content</b></a>
+            <div class="tag-title">
+                <a href="/archive"><b>Dota content</b></a>
+            </div>
             <div class="tag-list">
                 {% for data_tag in site.data.tags %}
                 <div class="tag-element"><a href="/tag/{{ data_tag.slug }}">{{ data_tag.name }}</a></div>
@@ -24,7 +26,9 @@
         </div>
 
         <div class="archive-box">
-            <a class="archive-title" href="/archive"><b>&nbsp;&nbsp;Recent articles</b></a>
+            <div class="archive-title">
+                <a class="archive-title" href="/archive"><b>Recent articles</b></a>
+            </div>
             <div class="archive-list">
                 {% for post in site.posts limit:5 %}
                 <div class="archive-element"><a href="{{ post.url }}">{{ post.title }}</a></div>

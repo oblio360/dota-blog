@@ -1,16 +1,8 @@
-.menu-container {
-    background-color: #850303;
-}
-
 .sidebar a {
     color: #850303;
 }
 
-.tag-title, .archive-title {
-    background-color: #850303;
-}
-
-a.tag-title, a.archive-title {
+.tag-title a, .archive-title a {
     color: #ffffff;
 }
 
@@ -19,12 +11,20 @@ a.tag-title, a.archive-title {
     color: #850303;
 }
 
-.theme-base a.tag {
-    background-color: #850303;
-    color: #ffffff;
+.menu-container {
+    background-color: #9d3535;
+}
+
+.tag-title, .archive-title {
+    background-color: #9d3535;
 }
 
 .fa-tag {
-    background-color: #850303;
+    background-color: #9d3535;
+    color: #ffffff;
+}
+
+.theme-base a.tag {
+    background-color: #9d3535;
     color: #ffffff;
 }

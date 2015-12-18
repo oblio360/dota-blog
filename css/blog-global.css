@@ -377,7 +377,7 @@ a.license:hover, a.license:focus {
     padding: 5px;
 }
 
-@media (min-width: 500px) and (max-width: 767px) {
+@media (min-width: 768px) and (max-width: 1199px) {
     .adslot_1 {
         width: 468px;
         height: 60px;
@@ -385,8 +385,8 @@ a.license:hover, a.license:focus {
         padding: 5px;
     }
 }
-@media (min-width: 800px) {
-    .adslot_1  {
+@media (min-width: 1200px) {
+    .adslot_1 {
         width: 728px;
         height: 90px;
         align: center;

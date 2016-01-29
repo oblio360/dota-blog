@@ -1,8 +1,12 @@
 - slug: guide
   name: Guide
+  group: Guides
 - slug: news
   name: News
+  group: News
 - slug: opinion
   name: Opinion
+  group: Opinions
 - slug: history
   name: History
+  group: History
